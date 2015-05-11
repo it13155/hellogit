@@ -1,0 +1,7 @@
+echo "git init"
+echo "git config --global user.email \"it13155@lehre.dhbw-stutgart.de\""
+echo "git config --global user.name \"boateng\""
+echo "git remote add origin git@github.com:it13155/hellogit.git"
+echo "git add ."
+echo "git commit -m \"Adds hellogit.sh to show used git commands\""
+echo "git push origin master" 
